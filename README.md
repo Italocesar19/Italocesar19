@@ -10,7 +10,7 @@ Estudante e desenvolvedor em formação, sempre em busca de aprender e evoluir n
 ## 💻 Tecnologias que estou aprendendo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,sql,mysql,html,css" alt="Ícones das tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=java,js,mysql,html,css" alt="Ícones das tecnologias"/>
 </p>
 
 ## 🚀 Projetos
